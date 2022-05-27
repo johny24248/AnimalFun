@@ -26,3 +26,8 @@ void Dog::chaseCat() const
 {
 	cout << "Here, kitty kitty!" << endl;
 }
+
+string Dog::eat() const
+{
+	return "I love dog food!";
+}

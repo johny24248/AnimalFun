@@ -13,6 +13,7 @@ public:
     void digHole() const;
     string makeNoise() const;
     void chaseCat() const;
+    string eat() const;
 private:
     string breed;
 };

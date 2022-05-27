@@ -1,2 +1,5 @@
-﻿  Dog.cpp
+﻿  Animal.cpp
+  Dog.cpp
+  main.cpp
+  Generating Code...
   AnimalFun.vcxproj -> D:\Johny\C++\AnimalFun\x64\Debug\AnimalFun.exe
